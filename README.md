@@ -1,8 +1,8 @@
 > [!NOTE]
 > Clase 1 Ayudantía ejemplo.
-#**Como hacer sopaipillas**#
+# **Como hacer sopaipillas**
 
-##**Ingredientes para hacer sopaipillas**##
+## **Ingredientes para hacer sopaipillas**
 
 1. **2** Tazas de harina
 2. **1** cucharadita de polvo de hornear
@@ -11,7 +11,7 @@
 5. **1/2** cucharadita de sal
 6. Aceite para freir 
 
-##**Instrucciones:**##
+## **Instrucciones:**
 
 1. **Mezcla los ingredientes secos:** En un bol grande, combina la harina, el polvo de hornear y la sal.
 
